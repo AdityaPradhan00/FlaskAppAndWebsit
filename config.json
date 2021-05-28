@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/testblog",
+    "prod_uri": "mysql://root:@localhost/testblog",
+    "link_url": "https://www.linkedin.com/in/aditya-pradhan-a17a07144/",
+    "git_url": "https://github.com/AdityaPradhan00",
+    "gmail_user": "ushduhsb@gmail.com",
+    "gmail_password": "Nasty@Boy",
+    "about_text": "THis is the about page of this blog hohoho....",
+    "no_of_posts": 3,
+    "name": "Aditya",
+    "admin_user": "Aditya",
+    "admin_password": "123",
+    "upload_location" : "C:\\Users\\HP\\PycharmProjects\\LearningFlask\\static"
+  }
+}
